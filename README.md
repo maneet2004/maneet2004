@@ -1,7 +1,7 @@
 <a href="https://www.carpixel.net/w/72a38657c843173b8e20291ecfb42054/mercedes-amg-f1-w15-e-performance-wallpaper-hd-121628.jpg">![alt README header](https://www.carpixel.net/w/72a38657c843173b8e20291ecfb42054/mercedes-amg-f1-w15-e-performance-wallpaper-hd-121628.jpg)</a>
 
 
-Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 1% Worldwide 🌍 ) and a **Software Engineering student** 🚀 from Tunisia.  Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼. 
+Hi there, I'm **Maneet Chatterjee**, a **Mechanical Engineering student** at **IIEST Shibpur**.  Currently, I'm a 2nd year undergraduate 🙍🏽‍♂️ [@maneet2004](https://github.com/maneet2004), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/maneetchatterjee). 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
