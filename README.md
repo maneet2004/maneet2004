@@ -9,8 +9,8 @@ Hi there, I'm **Maneet Chatterjee**, a **Mechanical Engineering student** at **I
 
 - 💼 I’m pursuing a Bachelor's degree in Mechanical Engineering;
 - 👨🏽‍💻 I’m currently interested in exploring multiple domains;
-- 🌱 I’m currently learning Machine and Deep Learning, Simulations in Mechanical Engineering;
-- 🤔 My interests are ML and DL and its application in mechanical engineering, Quantum computing, Automobile engineering, etc..;
+- 🌱 I’m currently learning Machine and Deep Learning, Simulations, Robotics and Quantum Computing;
+- 🤔 My interests are in the applications of ML, DL and Quantum Computing in mechanical engineering, Robotics, Automobile engineering, etc..;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via maneet2018@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1UJ4YjfePSzFzEn3A_ixVTQO6Fih0FTRr/view?usp=sharing) to get more info.
