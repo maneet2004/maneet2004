@@ -1,4 +1,4 @@
-<a href="https://www.wsupercars.com/car-wallpaper-download/?title=2022%20Red%20Bull%20Racing%20RB18&res=2048%20x%201536&pic=https://www.wsupercars.com/wallpapers-regular/Formula-1/Red-Bull-Racing/2022-Formula1-Red-Bull-Racing-RB18-001-1536.jpg">![alt README header](https://www.wsupercars.com/car-wallpaper-download/?title=2022%20Red%20Bull%20Racing%20RB18&res=2048%20x%201536&pic=https://www.wsupercars.com/wallpapers-regular/Formula-1/Red-Bull-Racing/2022-Formula1-Red-Bull-Racing-RB18-001-1536.jpg)</a>
+![alt text](./profile.jpg)
 
 Hi there, I'm **Maneet Chatterjee**, a **Mechanical Engineering student** at **IIEST Shibpur**.  
 Currently, I'm a 3rd year undergraduate 🙍🏽‍♂️ [@maneet2004](https://github.com/maneet2004),  
